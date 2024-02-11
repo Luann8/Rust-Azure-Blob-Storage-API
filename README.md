@@ -19,4 +19,5 @@
         <li>Make an HTTP POST request to <code>/upload</code> to send a file to the server.</li>
         <li>To download the file, make an HTTP GET request to <code>/download</code>.</li>
     </ol>
-    <p>Make sure you have the necessary permissions and have installed the dependencies through Cargo. Also, ensure that your Azure storage account is configured properly to allow access from your application.</p>
+    <p>Make sure you have the necessary permissions and have installed the dependencies through Cargo.</p>
+    <p>Also, ensure that your Azure storage account is configured properly to allow access from your application.</p>
